@@ -1,0 +1,11 @@
+
+[project]
+name = "GeminiChatBot"
+version = "0.1.0"
+description = "A simple chatbot that uses Gemini to generate answers"
+authors = ["Your Name <you@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "python-telegram-bot>=20.0",
+    "openai>=1.0.0",
+]

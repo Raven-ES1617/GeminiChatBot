@@ -169,3 +169,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/openrouter_gemini_2_0_api_key.txt
+/telegram_bot_api_key.txt
