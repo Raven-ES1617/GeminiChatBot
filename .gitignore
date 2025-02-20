@@ -171,3 +171,27 @@ cython_debug/
 .pypirc
 /openrouter_gemini_2_0_api_key.txt
 /telegram_bot_api_key.txt
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.iml
+
+# Virtual environment
+
+# Replit files (if not using Replit)
+.replit
+replit.nix
+
+
+# Environment files
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Local development
+*.local
+
+# Lock files (uv.lock can be regenerated)
+uv.lock
